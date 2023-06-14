@@ -1,7 +1,8 @@
 # Desciptive Statistics and Exploratory Data Analysis of Top 200 Youtubers dataset
 
-Analysed the 2023 QS World University Rankings dataset of 1422 universities to investigate associations between ranking and score parameters.
+Hypotheses tested:
 
-Identified key factors influencing rankings (Academic reputation, Employer reputation, Citation per Faculty, Graduate Employment Rate) and the relationship between rank and location.
+•	Hypothesis I: Youtube main video categories have different averages of normalised boost index.
+•	Hypothesis II: There is relationship between the number of total likes and the numbers of total views, followers, and comments average.
 
-Tool used: SPSS for statistical analysis (One-way ANOVA with Tukey Post hoc test and Linear regression), Tableau for visualisation.
+Tools used: SPSS for statistical analysis (One-way ANOVA with Tukey Post hoc test and Linear regression), Tableau for visualisation.
