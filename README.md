@@ -4,4 +4,4 @@ Analysed the 2023 QS World University Rankings dataset of 1422 universities to i
 
 Identified key factors influencing rankings (Academic reputation, Employer reputation, Citation per Faculty, Graduate Employment Rate) and the relationship between rank and location.
 
-Tool used: SPSS for statistical analysis, Tableau for visualisation.
+Tool used: SPSS for statistical analysis (One-way ANOVA with Tukey Post hoc test and Linear regression), Tableau for visualisation.
